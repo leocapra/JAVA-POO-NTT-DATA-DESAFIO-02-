@@ -47,5 +47,3 @@ Durante o desenvolvimento deste desafio, aprofundei meus conhecimentos em:
 Desenvolvido por Leonardo Capra - [LinkedIn](https://www.linkedin.com/in/leocapra/)
 
 ---
-
-🙏 Obrigado por visitar o repositório! Sinta-se à vontade para abrir issues ou sugerir melhorias.
