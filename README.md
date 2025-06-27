@@ -44,7 +44,7 @@ Durante o desenvolvimento deste desafio, aprofundei meus conhecimentos em:
 
 ## 📬 Contato
 
-Desenvolvido por [Seu Nome] - [LinkedIn](https://www.linkedin.com/in/leocapra/)
+Desenvolvido por Leonardo Capra - [LinkedIn](https://www.linkedin.com/in/leocapra/)
 
 ---
 
